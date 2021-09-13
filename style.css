@@ -14,6 +14,7 @@ header img {
     width: 300px;
 }
 
+/* Intestazione */
 section {
     margin: 10px;
 }
@@ -33,6 +34,7 @@ section h1 {
     color: rgb(82, 81, 81);
     font-size: 14px;
 }
+/* /Intestazione */
 
 main {
     margin: 10px;
@@ -42,11 +44,14 @@ mark {
     background-color: yellow;
 }
 
+/* Lista */
 section ul {
     padding: 0;
     margin: 15px;
 }
+/* /Lista */
 
+/* Tabella */
 section table thead {
     background-color: rgba(0, 162, 255, 0.897);
 }
@@ -59,6 +64,7 @@ section table thead tr th {
 .tbody-lightblue {
     background-color: lightblue;
 }
+/* /Tabella */
 
 footer {
     margin: 10px;

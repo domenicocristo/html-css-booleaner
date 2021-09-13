@@ -44,7 +44,20 @@ mark {
 
 section ul {
     padding: 0;
-    margin: 10px;
+    margin: 15px;
+}
+
+section table thead {
+    background-color: rgba(0, 162, 255, 0.897);
+}
+
+section table thead tr th {
+    padding-right: 200px;
+    text-align: left;
+}
+
+.tbody-lightblue {
+    background-color: lightblue;
 }
 
 footer {

@@ -52,6 +52,10 @@ section ul {
 /* /Lista */
 
 /* Tabella */
+table {
+    border-spacing: 0;
+}
+
 section table thead {
     background-color: rgba(0, 162, 255, 0.897);
 }
